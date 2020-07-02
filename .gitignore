@@ -1,0 +1,7 @@
+node_modules
+dist
+functions
+drafts
+.idea
+.DS_Store
+.env

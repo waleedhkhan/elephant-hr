@@ -1,0 +1,57 @@
+waleedhkhan
+==================================================================
+https://keybase.io/waleedhkhan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.waleed.de
+  * I am waleedhkhan (https://keybase.io/waleedhkhan) on keybase.
+  * I have a public key ASDkNM3ZhVImD5LltDo-51rX5KPVAstrPX8bRsBsYlVmnwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e434cdd98552260f92e5b43a3ee75ad7e4a3d502cb6b3d7f1b46c06c6255669f0a",
+      "host": "keybase.io",
+      "kid": "0120e434cdd98552260f92e5b43a3ee75ad7e4a3d502cb6b3d7f1b46c06c6255669f0a",
+      "uid": "acd8595200b48891e14b67e7375eb219",
+      "username": "waleedhkhan"
+    },
+    "merkle_root": {
+      "ctime": 1591393628,
+      "hash": "01f3936fd98b7051f9092aeaab0bb78ca8ea12a2db19cc13673336d34f6102cf2dca6b543a9092f64993602aa2ad288c9a16b7bc462594c63fe1b3d372782ffe",
+      "hash_meta": "48f7601f3f184ea5240d4f4a770bc6f31fb84107dbf925a642d5af196cbba49b",
+      "seqno": 16545265
+    },
+    "service": {
+      "entropy": "yEAEJmxXH/AwD3tWzH3mUWUQ",
+      "hostname": "www.waleed.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1591393654,
+  "expire_in": 504576000,
+  "prev": "10fd4bf1edf3e7c61e40201fb0cdd32ea6d65e99bdcc1640203c8c9cc8474408",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5DTN2YVSJg+S5bQ6Puda1+Sj1QLLaz1/G0bAbGJVZp8Kp3BheWxvYWTESpcCB8QgEP1L8e3z58YeQCAfsM3TLqbWXpm9zBZAIDyMnMhHRAjEIJcLujHaN0tl5LEYaOliO9+UbF3SImPrOJDDqQ+b64L9AgHCo3NpZ8RAXP5utOHI93VtPtQs5L7osNLR7oBf7yiSC+cVh+5tUSHFz1ZGDzf++VSUVIaxTSIgMlxOiNxCPF9a8S+hYbiLCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHtGbyehU0KoBRQ+tfq0VtGBI2OuVOtuTjBhFTuykDujo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/waleedhkhan
+
+==================================================================

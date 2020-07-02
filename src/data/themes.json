@@ -1,0 +1,44 @@
+[
+    {
+        "id": "default",
+        "name": "Elephant Light",
+        "colors": {
+            "primary": "#682A7A",
+            "secondary": "#ff5470",
+            "text": "#1b2d45",
+            "border": "#e8dfea",
+            "background": "#FCF2FF",
+            "primaryOffset": "#8505aa",
+            "textOffset": "#1b2d45",
+            "backgroundOffset": "#e2cee8"
+        }
+    },
+    {
+        "id": "classic",
+        "name": "Classic",
+        "colors": {
+            "primary": "#030200",
+            "secondary": "#4d4b50",
+            "text": "#16161d",
+            "border": "#eceeef",
+            "background": "#ffffff",
+            "primaryOffset": "##00e0e0",
+            "textOffset": "#818a91",
+            "backgroundOffset": "#f7f7f9"
+        }
+    },
+    {
+        "id": "Dark",
+        "name": "Elephant Dark",
+        "colors": {
+            "primary": "#7f5af0",
+            "secondary": "#2cb67d",
+            "text": "#fffffe",
+            "border": "#383a61",
+            "background": "#16161a",
+            "primaryOffset": "#e068fd",
+            "textOffset": "#94a1b2",
+            "backgroundOffset": "#29293e"
+        }
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "name": "Elephant",
+    "company":"Elephant HR Gmbh",
+    "email": "hello@elephant-hr.de",
+    "avatar": "/assets/images/avatar.jpg",
+    "social": {
+        "twitter": {
+            "name": "askwaleedkhan",
+            "url": "https://twitter.com/askwaleedkhan"
+        },
+
+        "linkedin": {
+            "name": "elephant-hr-gmbh",
+            "url": "https://www.linkedin.com/company/elephant-hr-gmbh/"
+        }
+
+    }
+}
