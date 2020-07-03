@@ -9,8 +9,7 @@ const workboxConfig = {
         '{404,about,blog,notes}/*.html',
         'assets/{css,fonts,icons}/*',
         'assets/images/avatar-default.jpg',
-        'assets/images/avatar.jpg',
-        'assets/images/waleed.jpg',
+        'assets/images/avatar.png',
         'assets/js/main.js',
         'assets/js/webmentions.js'
     ],

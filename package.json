@@ -1,7 +1,7 @@
 {
-  "name": "waleed.de",
+  "name": "elephant-hr.de",
   "version": "4.1.0",
-  "description": "Personal Website of Waleed H.Khan",
+  "description": "Elephant HR - Company Website/Blog",
   "scripts": {
     "start": "gulp build:dev",
     "build": "NODE_ENV=production gulp build && yarn run build:lambda",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/waleedhkhan/waleed.de"
+    "url": "https://github.com/waleedhkhan/elephant-hr"
   },
   "author": "Waleed H.Khan",
   "license": "MIT",
