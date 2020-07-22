@@ -1,0 +1,35 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "Elephant HR Gmbh",
+    "short_name": "EHR",
+    "icons": [
+        {
+            "src": "/assets/images/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+
+        {
+            "src": "/assets/images/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+
+    ],
+    "theme_color": "#682979",
+    "background_color": "#682979",
+    "start_url": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "share_target": {
+        "action": "/share/",
+        "method": "GET",
+        "enctype": "application/x-www-form-urlencoded",
+        "params": {
+            "title": "title",
+            "text": "text",
+            "url": "url"
+        }
+    }
+}

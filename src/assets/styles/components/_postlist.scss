@@ -1,0 +1,44 @@
+.postlist {
+    @include container-narrow;
+
+    &__item {
+        margin-bottom: 3rem;
+
+        @include mq(md) {
+            margin-bottom: 5rem;
+        }
+    }
+    &__link {
+        display: block;
+
+        .postlist__item--draft & {
+            color: var(--color-secondary);
+        }
+    }
+    &__title {
+        margin-bottom: 0;
+    }
+    &__meta {
+        font-size: 1.1rem;
+        margin-bottom: 1rem;
+        font-family: $font-family-meta;
+        font-weight: normal;
+
+    }
+    &__tags {
+        font-size: 1.1rem;
+        font-weight: normal;
+
+    }
+    &__status {
+        font-weight: 700;
+        color: var(--color-secondary);
+    }
+    &__excerpt {
+        @include body-text();
+
+        .postlist__item--draft & {
+            opacity: 0.5;
+        }
+    }
+}

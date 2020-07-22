@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Garamond ITC Bold';
+    font-style: normal;
+    font-display: swap;
+    src: local('Garamond-ITC-Bold-BT'),
+        url('/assets/fonts/Garamond-ITC-Bold-BT.woff2') format('woff2'),
+        url('/assets/fonts/Garamond-ITC-Bold-BT.woff') format('woff');
+
+}
+@font-face {
+    font-family: 'Futura';
+    font-style: normal;
+    font-display: swap;
+    font-weight: normal;
+    src: local('Futura2-Normal'),
+        url('/assets/fonts/Futura2-Normal.woff') format('woff2'),
+        url('/assets/fonts/Futura2-Normal.woff') format('woff');
+}

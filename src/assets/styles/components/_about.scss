@@ -1,0 +1,45 @@
+.about {
+    &__header {
+        margin-bottom: 2rem;
+    }
+    &__image {
+
+        margin-bottom: 2rem;
+        width: 100%
+       }
+    &__intro {
+        max-width: 70rem;
+        font-size:1.6rem;
+
+        p {
+            margin-bottom: 1rem;
+        }
+    }
+    &__social {
+        list-style-type: none !important;
+
+        .icon {
+            font-size: 1.25rem;
+            margin-right: 1.25rem;
+        }
+    }
+
+    @include mq(lg) {
+        &__header {
+            display: flex;
+            align-items: center;
+            margin: 0 calc(50% - 50vw) 3rem;
+        }
+        &__image {
+            margin-bottom: 2rem;
+            width: 100%
+           }
+        &__intro {
+            flex: 1 1 60%;
+            padding: 2rem 3rem;
+        }
+        &__content {
+            @include container-narrow;
+        }
+    }
+}
