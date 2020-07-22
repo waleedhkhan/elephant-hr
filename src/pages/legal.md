@@ -1,21 +1,26 @@
 ---
 layout: page
 permalink: legal/index.html
-title: Legal
+title: IMPRINT
 ---
 
-## Content Ownership
+## IMPRINT
 
-Seesener Str. 43
-10711 Berlin
-Germany
+Elephant HR GmbH
+Schützenstraße 8
+10117 Berlin 
 
-<a href="mailto:{{ author.email | obfuscate | safe }}">{{ author.email | obfuscate | safe }}</a>
+Geschäftsführer: Leonard Eichhorn,Nikolaus Widmann 
 
-## Mandatory Information
-Pflichtaufgaben nach § 5 TMG:
-USt.IdNr nach § 27a UStG: DE317509190 
-Steuernummer: 24/356/01314
-Ansprechpartner: Waleed Hussain
+M hello@elephant-hr.de 
+W www.elephant-hr.de 
+T +49 30 585841982
 
-Verantwortlicher für eigene Inhalte von waleed.de.com gem. TMG und 55 RStV: Waleed Hussain
+
+Bank: Berliner Sparkasse 
+IBAN: DE02 1005 0000 0190 6616 66 BIC: BELADEBEXXX
+
+Steuernummer: 137/001/49273
+
+USt.-ID.: DE313753508
+HRB 189248 B - Amtsgericht Berlin-Charlottenburg

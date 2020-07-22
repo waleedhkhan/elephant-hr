@@ -5,27 +5,16 @@ navtitle: Home
 navorder: 1
 permalink: index.html
 ---
+
+
 <div class="hero fade-in">
     <div class="hero__inner">
-
-
-        <h1 class="hero__title">We help you hire the best people for the job</h1>
-        <div class="hero__content">
+        <h1 class="hero__title">Matching Experts</h1>
+               <div class="hero__content">
             <p>
-   Treating people right is fundamental to how we do business. We treat our customers as we’d want to be treated
-            <p>
+We will soon be launching our new website, designed with a fresh new look and user-friendly navigation, updated with helpful content for our customers and partners.<p>
         </div>
+        <img class="about__image" src="{{ '/assets/images/team.jpg' | url }}" alt="Waleed H.Khan" />
+ 
     </div>
 </div>
-
-
-{% if collections.featured.length %}
-<div class="u-mb4">
-    <h2>Featured Blog Posts</h2>
-    
-    {% include "featuredposts.njk" %}
-    <p class="u-align-right">
-        <a href="/blog" class="u-align-middle">See All Posts {% icon "arrow-right" %}</a>
-    </p>
-</div>
-{% endif %}
