@@ -10,12 +10,11 @@ Elephant HR GmbH
 Schützenstraße 8
 10117 Berlin 
 
-Geschäftsführer: Leonard Eichhorn,Nikolaus Widmann 
+Geschäftsführer: Geschäftsführer: Nikolaus Widmann, Leonard Eichhorn
 
 M hello@elephant-hr.de 
 W www.elephant-hr.de 
 T +49 30 585841982
-
 
 Bank: Berliner Sparkasse 
 IBAN: DE02 1005 0000 0190 6616 66 BIC: BELADEBEXXX
